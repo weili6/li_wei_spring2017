@@ -11,6 +11,7 @@
 - Dataset: Enron's email dataset - Jeff Skilling's sent mails
 - Method: parse "to" from each sent mail; calculate the number of mails sent to each recipient(internal/external) by Jeff Skilling
 - Result:
+
 #### External recipients
 |                              |                 | 
 |------------------------------|-----------------| 

@@ -97,3 +97,21 @@
 | sanjay.bhatnagar@enron.com  | 1                                  | 2                             | 
 | kevin.hannon@enron.com      | 1                                  | 6                             | 
 
+## Question 2
+### Analysis 1
+- Goal: get the most frequent words in titles of most viewed articles in order to know what words really catch readers' eyes when they browse the website
+- Dataset: NYT API - Most popular - Most Viewed by Section & Time Period
+- Methos: parse title from each article; use counter to get word frequency; plot bar chart
+- Result: ![Alt text](que2/ana_1/ana_1.png)
+
+### Analysis 2
+- Goal: for a popular article, analyze the trend of new comments created hourly after the article published in order to know the lifespan of an article
+- Dataset: NYT API - Community - Comments by URL
+- Method: parse create time from each comment; calculate the number of new comments in each hour after the article published; plot a bar chart
+- Result: ![Alt text](que2/ana_2/ana_2.png)
+
+### Analysis 3
+- Goal: analyze the trend of the number of comments created over a day in order to see when users are most active in a day
+- Dataset: NYT API - Community - Comments by Date
+- Method: parse create time from each comment; calculate the number of new comments in each hour over a day; plot a bar chart
+- Result: ![Alt text](que2/ana_3/ana_3.png)

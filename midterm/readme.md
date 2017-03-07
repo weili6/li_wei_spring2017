@@ -64,3 +64,36 @@
 | rick.buy@enron.com          | 2               | 
 
 
+### Analysis 3
+- Goal: calculate the number of mails sent by Kenneth Lay, former chairman and CEO of Enron to each recipient; compare the result with Jeff Skilling's to see if there are some common frequent recipients
+- Dataset: Enron's email dataset - Kenneth Lay's sent mails
+- Method: parse "to" from each sent mail; calculate the number of mails sent to each internal recipient; compare the result with Jeff Skilling's
+- Result:
+
+|                             |                                    |                               | 
+|-----------------------------|------------------------------------|-------------------------------| 
+| recipient                   | number of mails sent by J.Skilling | number of mails sent by K.Lay | 
+| expense.report@enron.com    | 6                                  | 2                             | 
+| sally.keepers@enron.com     | 4                                  | 1                             | 
+| sherri.sera@enron.com       | 4                                  | 7                             | 
+| rebecca.mcdonald@enron.com  | 2                                  | 2                             | 
+| billy.dorsey@enron.com      | 2                                  | 2                             | 
+| steven.kean@enron.com       | 1                                  | 4                             | 
+| debbie.nowak@enron.com      | 1                                  | 1                             | 
+| vanessa.groscrand@enron.com | 1                                  | 1                             | 
+| john.lavorato@enron.com     | 1                                  | 1                             | 
+| dolores.fisher@enron.com    | 1                                  | 1                             | 
+| carolyn.cooney@enron.com    | 1                                  | 1                             | 
+| richard.leibert@enron.com   | 1                                  | 1                             | 
+| mike.mcconnell@enron.com    | 1                                  | 2                             | 
+| outlook.team@enron.com      | 1                                  | 1                             | 
+| david.haug@enron.com        | 1                                  | 1                             | 
+| ken.rice@enron.com          | 1                                  | 2                             | 
+| don.black@enron.com         | 1                                  | 1                             | 
+| loretta.brelsford@enron.com | 1                                  | 1                             | 
+| philippe.bibi@enron.com     | 1                                  | 2                             | 
+| simone.rose@enron.com       | 1                                  | 1                             | 
+| pam.benson@enron.com        | 1                                  | 1                             | 
+| sanjay.bhatnagar@enron.com  | 1                                  | 2                             | 
+| kevin.hannon@enron.com      | 1                                  | 6                             | 
+

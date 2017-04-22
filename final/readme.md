@@ -81,5 +81,13 @@ __1. The variable of Family decreases the most in 2016 by 20%__
 | Dystopia Residual             | 2.098976772151899   | 2.3258065605095544  | 10.8          |
 
 __2. Compare the mean values of each variable between 2015 and 2016__  
-![Alt text](analysis/ana_3/ana_3_output/plot_1.png) 
+![Alt text](analysis/ana_3/ana_3_output/plot_1.png)  
+
+## Analysis 4
+- Goal: Variable Correlation
+- Method: use corr function of pandas on dataframes; plot heatmap and the corresponding correlations between every two variables
+- Result:
+
+__1. Economy, Family and Health are the three most important factors to Happiness Score; health and economy are highly correlated  
+![Alt text](analysis/ana_4/ana_4_output/plot_1.png)  
 

@@ -11,5 +11,12 @@
 | Switzerland | Western Europe | 2              | 7.509           | 7.428                     | 7.59                      | 1.52733                  | 1.14524 | 0.86303                  | 0.58557 | 0.41203                       | 0.28083    | 2.69463           |
 | Iceland     | Western Europe | 3              | 7.501           | 7.333                     | 7.669                     | 1.42666                  | 1.18326 | 0.86733                  | 0.56624 | 0.14975                       | 0.47678    | 2.83137           |
 
-
 ## Analysis 1
+- Goal: Compare regional distributions of countries in World Happiness Reports of 2015 and 2016
+- Method: Add 'Year' variable to 2 datasets and concatenate them in pandas; Use seaborn.violinplot
+- Result:  
+＊1. most regions remain the same＊  
+＊2. More countries in Central and Eastern Europe falls between 5-6 in 2016＊  
+＊3. More countries in Sub-Saharan falls around 4 in 2016＊  
+![Alt text](analysis/ana_1/ana_1_output/plot_1.png)  
+

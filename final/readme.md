@@ -22,7 +22,7 @@ __3. More countries in Sub-Saharan falls around 4 in 2016__
 
 ## Analysis 2
 - Goal: Rank change of each country in Wordl Happiness Reports of 2015 and 2016
-- Method: Calculate the difference between the columns of "Happiness Rank_2015" and "Happiness Rank_2016"; sort rows by the value of rank change; use seaborn.swarmplot
+- Method: Calculate the difference between the columns of "Happiness Rank_2015" and "Happiness Rank_2016"; sort rows by the value of rank change; define a function to extract 'Region' from two dataframes; use seaborn.swarmplot
 - Result:  
 
 __1. Algeria has the highest rank increase__  
@@ -62,3 +62,24 @@ __4. Countries off 2016 list; Note Oman ranks 22 in 2015, however it is off the 
 
 __5. Most countries remain the same, while countries in Sub-Suharan Africa have more changes__   
 ![Alt text](analysis/ana_2/ana_2_output/plot_1.png)  
+
+## Analysis 3
+- Goal: Calculate the mean value of each variable
+- Method: use mean/min/max functions on dataframes and calculate mean difference between 2 years; plot by bar chart
+- Result:  
+
+__1. The variable of Family decreases the most in 2016 by 20%__   
+
+|                               | mean_2015           | mean_2016           | difference(%) |
+|-------------------------------|---------------------|---------------------|---------------|
+| Economy (GDP per Capita)      | 0.8461372151898726  | 0.9538798089171973  | 12.7          |
+| Family                        | 0.9910459493670887  | 0.7936210828025482  | -19.9         |
+| Health (Life Expectancy)      | 0.6302593670886079  | 0.5576189808917195  | -11.5         |
+| Freedom                       | 0.4286149367088611  | 0.3709938853503184  | -13.4         |
+| Trust (Government Corruption) | 0.14342183544303794 | 0.1376237579617835  | -4.0          |
+| Generosity                    | 0.23729550632911403 | 0.24263490445859875 | 2.3           |
+| Dystopia Residual             | 2.098976772151899   | 2.3258065605095544  | 10.8          |
+
+__2. Compare the mean values of each variable between 2015 and 2016__  
+![Alt text](analysis/ana_3/ana_3_output/plot_1.png) 
+

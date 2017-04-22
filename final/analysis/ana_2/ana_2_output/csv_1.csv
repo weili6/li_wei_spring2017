@@ -1,0 +1,152 @@
+Country,Happiness Rank_2015,Happiness Rank_2016,Region,Rank Change
+Algeria,68,38,Middle East and Northern Africa,-30
+Latvia,89,68,Central and Eastern Europe,-21
+Cameroon,133,114,Sub-Saharan Africa,-19
+Romania,86,71,Central and Eastern Europe,-15
+Egypt,135,120,Middle East and Northern Africa,-15
+Sri Lanka,132,117,Southern Asia,-15
+Senegal,142,128,Sub-Saharan Africa,-14
+Malaysia,61,47,Southeastern Asia,-14
+Nepal,121,107,Southern Asia,-14
+Hungary,104,91,Central and Eastern Europe,-13
+Congo (Brazzaville),139,127,Sub-Saharan Africa,-12
+Ivory Coast,151,139,Sub-Saharan Africa,-12
+Sierra Leone,123,111,Sub-Saharan Africa,-12
+Myanmar,129,119,Southeastern Asia,-10
+Lebanon,103,93,Middle East and Northern Africa,-10
+Germany,26,16,Western Europe,-10
+Gabon,143,134,Sub-Saharan Africa,-9
+Bosnia and Herzegovina,96,87,Central and Eastern Europe,-9
+Dominican Republic,98,89,Latin America and Caribbean,-9
+Tunisia,107,98,Middle East and Northern Africa,-9
+Nicaragua,57,48,Latin America and Caribbean,-9
+Philippines,90,82,Southeastern Asia,-8
+Russia,64,56,Central and Eastern Europe,-8
+Ethiopia,122,115,Sub-Saharan Africa,-7
+Malta,37,30,Western Europe,-7
+Bahrain,49,42,Middle East and Northern Africa,-7
+Burkina Faso,152,145,Sub-Saharan Africa,-7
+Tajikistan,106,100,Central and Eastern Europe,-6
+Armenia,127,121,Central and Eastern Europe,-6
+Iran,110,105,Middle East and Northern Africa,-5
+Turkmenistan,70,65,Central and Eastern Europe,-5
+Chad,149,144,Sub-Saharan Africa,-5
+Cambodia,145,140,Southeastern Asia,-5
+Bulgaria,134,129,Central and Eastern Europe,-5
+Mauritius,71,66,Sub-Saharan Africa,-5
+Georgia,130,126,Central and Eastern Europe,-4
+Taiwan,38,34,Eastern Asia,-4
+North Cyprus,66,62,Western Europe,-4
+Czech Republic,31,27,Central and Eastern Europe,-4
+Argentina,30,26,Latin America and Caribbean,-4
+Guatemala,43,39,Latin America and Caribbean,-4
+Poland,60,57,Central and Eastern Europe,-3
+Kenya,125,122,Sub-Saharan Africa,-3
+Greece,102,99,Western Europe,-3
+Togo,158,155,Sub-Saharan Africa,-3
+Chile,27,24,Latin America and Caribbean,-3
+Mali,138,135,Sub-Saharan Africa,-3
+Uruguay,32,29,Latin America and Caribbean,-3
+Jordan,82,80,Middle East and Northern Africa,-2
+Rwanda,154,152,Sub-Saharan Africa,-2
+Denmark,3,1,Western Europe,-2
+Niger,144,142,Sub-Saharan Africa,-2
+Singapore,24,22,Southeastern Asia,-2
+Benin,155,153,Sub-Saharan Africa,-2
+United States,15,13,North America,-2
+Colombia,33,31,Latin America and Caribbean,-2
+Comoros,140,138,Sub-Saharan Africa,-2
+Morocco,92,90,Middle East and Northern Africa,-2
+Finland,6,5,Western Europe,-1
+Australia,10,9,Australia and New Zealand,-1
+New Zealand,9,8,Australia and New Zealand,-1
+Estonia,73,72,Central and Eastern Europe,-1
+Austria,13,12,Western Europe,-1
+Belgium,19,18,Western Europe,-1
+Honduras,105,104,Latin America and Caribbean,-1
+China,84,83,Eastern Asia,-1
+Thailand,34,33,Southeastern Asia,-1
+Saudi Arabia,35,34,Middle East and Northern Africa,-1
+Serbia,87,86,Central and Eastern Europe,-1
+Burundi,157,157,Sub-Saharan Africa,0
+Netherlands,7,7,Western Europe,0
+Syria,156,156,Middle East and Northern Africa,0
+Norway,4,4,Western Europe,0
+Suriname,40,40,Latin America and Caribbean,0
+Slovakia,45,45,Central and Eastern Europe,0
+Palestinian Territories,108,108,Middle East and Northern Africa,0
+Iraq,112,112,Middle East and Northern Africa,0
+Panama,25,25,Latin America and Caribbean,0
+Kazakhstan,54,54,Central and Eastern Europe,0
+Italy,50,50,Western Europe,0
+Israel,11,11,Middle East and Northern Africa,0
+Bangladesh,109,110,Southern Asia,1
+Guinea,150,151,Sub-Saharan Africa,1
+Mongolia,100,101,Eastern Asia,1
+India,117,118,Southern Asia,1
+Madagascar,147,148,Sub-Saharan Africa,1
+Malawi,131,132,Sub-Saharan Africa,1
+Afghanistan,153,154,Southern Asia,1
+Switzerland,1,2,Western Europe,1
+Iceland,2,3,Western Europe,1
+Spain,36,37,Western Europe,1
+Canada,5,6,North America,1
+Azerbaijan,80,81,Central and Eastern Europe,1
+Ireland,18,19,Western Europe,1
+Brazil,16,17,Latin America and Caribbean,1
+Sweden,8,10,Western Europe,2
+Cyprus,67,69,Western Europe,2
+Belarus,59,61,Central and Eastern Europe,2
+Costa Rica,12,14,Latin America and Caribbean,2
+Trinidad and Tobago,41,43,Latin America and Caribbean,2
+Kuwait,39,41,Middle East and Northern Africa,2
+United Kingdom,21,23,Western Europe,2
+Macedonia,93,95,Central and Eastern Europe,2
+Turkey,76,78,Middle East and Northern Africa,2
+Tanzania,146,149,Sub-Saharan Africa,3
+South Africa,113,116,Sub-Saharan Africa,3
+Hong Kong,72,75,Eastern Asia,3
+Luxembourg,17,20,Western Europe,3
+Moldova,52,55,Central and Eastern Europe,3
+Laos,99,102,Southeastern Asia,3
+Ecuador,48,51,Latin America and Caribbean,3
+France,29,32,Western Europe,3
+Lithuania,56,60,Central and Eastern Europe,4
+Uganda,141,145,Sub-Saharan Africa,4
+Angola,137,141,Sub-Saharan Africa,4
+El Salvador,42,46,Latin America and Caribbean,4
+Libya,63,67,Middle East and Northern Africa,4
+Uzbekistan,44,49,Central and Eastern Europe,5
+Indonesia,74,79,Southeastern Asia,5
+Bhutan,79,84,Southern Asia,5
+Congo (Kinshasa),120,125,Sub-Saharan Africa,5
+Peru,58,64,Latin America and Caribbean,6
+Mauritania,124,130,Sub-Saharan Africa,6
+Portugal,88,94,Western Europe,6
+Montenegro,82,88,Central and Eastern Europe,6
+Mexico,14,21,Latin America and Caribbean,7
+Japan,46,53,Eastern Asia,7
+Slovenia,55,63,Central and Eastern Europe,8
+Qatar,28,36,Middle East and Northern Africa,8
+United Arab Emirates,20,28,Middle East and Northern Africa,8
+Kyrgyzstan,77,85,Central and Eastern Europe,8
+Bolivia,51,59,Latin America and Caribbean,8
+Kosovo,69,77,Central and Eastern Europe,8
+Jamaica,65,73,Latin America and Caribbean,8
+Botswana,128,137,Sub-Saharan Africa,9
+South Korea,47,57,Eastern Asia,10
+Ghana,114,124,Sub-Saharan Africa,10
+Pakistan,81,92,Southern Asia,11
+Yemen,136,147,Middle East and Northern Africa,11
+Croatia,62,74,Central and Eastern Europe,12
+Ukraine,111,123,Central and Eastern Europe,12
+Albania,95,109,Central and Eastern Europe,14
+Sudan,118,133,Sub-Saharan Africa,15
+Zimbabwe,115,131,Sub-Saharan Africa,16
+Haiti,119,136,Latin America and Caribbean,17
+Paraguay,53,70,Latin America and Caribbean,17
+Venezuela,23,44,Latin America and Caribbean,21
+Vietnam,75,96,Southeastern Asia,21
+Zambia,85,106,Sub-Saharan Africa,21
+Nigeria,78,103,Sub-Saharan Africa,25
+Liberia,116,150,Sub-Saharan Africa,34

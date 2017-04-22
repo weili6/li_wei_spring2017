@@ -88,6 +88,6 @@ __2. Compare the mean values of each variable between 2015 and 2016__
 - Method: use corr function of pandas on dataframes; plot heatmap and the corresponding correlations between every two variables
 - Result:
 
-__1. Economy, Family and Health are the three most important factors to Happiness Score; health and economy are highly correlated  
+__1. Economy, Family and Health are the three most important factors to Happiness Score; health and economy are highly correlated__  
 ![Alt text](analysis/ana_4/ana_4_output/plot_1.png)  
 

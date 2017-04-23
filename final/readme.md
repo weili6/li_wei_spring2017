@@ -16,8 +16,8 @@
 - Method: Add 'Year' variable to 2 datasets and concatenate them in pandas; use seaborn.violinplot
 - Result:  
 __1. Most regions remain the same__  
-__2. More countries in Central and Eastern Europe falls between 5-6 in 2016__  
-__3. More countries in Sub-Saharan falls around 4 in 2016__  
+__2. More countries in Central and Eastern Europe are between 5-6 in 2016__  
+__3. More countries in Sub-Saharan are around 4 in 2016__  
 ![Alt text](analysis/ana_1/ana_1_output/plot_1.png)  
 
 ## Analysis 2

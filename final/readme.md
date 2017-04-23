@@ -91,3 +91,11 @@ __2. Compare the mean values of each variable between 2015 and 2016__
 __1. Economy, Family and Health are the three most important factors to Happiness Score; health and economy are highly correlated__  
 ![Alt text](analysis/ana_4/ana_4_output/plot_1.png)  
 
+## Analysis 5
+- Goal: Compare mean values of important variables - Economy, Family and Health - among regions
+- Method: use bar chart to plot the mean values of regions for different variables
+- Result:  
+
+__1. While East Asia is not at the leading position in the graphs of Economy and Family, it has relatively high Health mean value__
+__2. Latin America and Carribean has high Family mean value though it is in the middle for Economy variable__  
+![Alt text](analysis/ana_5/ana_5_output/plot_1.png) 

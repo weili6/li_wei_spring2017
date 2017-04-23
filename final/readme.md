@@ -15,7 +15,7 @@
 - Goal: Compare regional distributions of countries in World Happiness Reports of 2015 and 2016
 - Method: Add 'Year' variable to 2 datasets and concatenate them in pandas; use seaborn.violinplot
 - Result:  
-__1. most regions remain the same__  
+__1. Most regions remain the same__  
 __2. More countries in Central and Eastern Europe falls between 5-6 in 2016__  
 __3. More countries in Sub-Saharan falls around 4 in 2016__  
 ![Alt text](analysis/ana_1/ana_1_output/plot_1.png)  

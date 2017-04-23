@@ -96,6 +96,6 @@ __1. Economy, Family and Health are the three most important factors to Happines
 - Method: use bar chart to plot the mean values of regions for different variables
 - Result:  
 
-__1. While East Asia is not at the leading position in the graphs of Economy and Family, it has relatively high Health mean value__
+__1. While East Asia is not at the leading position in the graphs of Economy and Family, it has relatively high Health mean value__   
 __2. Latin America and Carribean has high Family mean value though it is in the middle for Economy variable__  
 ![Alt text](analysis/ana_5/ana_5_output/plot_1.png) 
